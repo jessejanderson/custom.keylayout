@@ -21,12 +21,11 @@ The cheat sheet is below:
     A S D F G H J K L ; '
     Z X C V B N M , . /
 
-        ~ `     # ^
-    % & ? + @ $ _ - / !
-    [ ( = 0 { } 1 * ) ] "
+    % & ? + @ $ _ - / ! ~ `
+    [ ( = 0 { } 1 * ) ] #
     6 7 8 9 | , 2 3 4 5
 
-What if you want a comma? The space bar and the return key are mapped to produce `, [space]` and `, [return]` so you will get what you expect in those scenarios. If you need a comma without a comma or return (which is pretty rare, other than numbers like 1,000), you can either type `, [space] [backspace]` or `, n`.
+What if you want a comma? The space bar and the return key are mapped to produce `, [space]` and `, [return]` so you will get what you expect in those scenarios. Also, when typing  numbers you want seperated by commas (3,720), the number row on top of the keyboard will act as normally expected - `, 1` = `,1`. If you need a comma without a space or return outside of a number, you can either type `, [space] [backspace]` or `, n`.
 
 Furthermore, there is a second level to this madness. After you have pressed the `,` key, if you then hold down ⌥ (option) you get access to some additional developer shortcuts at the right-hand side of the keyboard:
 
